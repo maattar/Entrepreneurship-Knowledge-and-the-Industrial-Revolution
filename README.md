@@ -1,1 +1,7 @@
-# Entrepreneurship-Knowledge-and-the-Industrial-Revolution
+# Entrepreneurship-Knowledge-and-the-Industrial-Revolution (2015)
+
+Note: This paper is a substantially revised version of some parts of my doctoral dissertation submitted to the University of North Carolina at Chapel Hill in December 2011.
+
+Acknowledgements: I thank the Co-Editor, two anonymous referees, and the anonymous invited reader for their very helpful comments and suggestions on the discussion paper version. I am grateful to Lutz Hendricks, Pietro Peretto, John Seater, Richard Froyen, Oksana Leukhina, Neville Francis, Michael Salemi, Aykut Kibritcioglu, and the seminar participants at the University of North Carolina at Chapel Hill, the Triangle Dynamic Macro workshop, and Hacettepe University for very helpful comments and suggestions on earlier versions of this work.
+
+Abstract: This paper constructs a two-sector unified growth model. Learning-by-doing in agriculture eventually allows the preindustrial economy to leave its Malthusian trap. But entrepreneurs in the manufacturing sector do not attempt invention if not much is known about natural phenomena. This delays the industrial revolution. Since entrepreneurs identify new useful knowledge at all times in a serendipitous way, the industrial revolution is an inevitable outcome. The paper characterizes the equilibrium path from ancient times to the infinite future. According with this characterization, the model economy successfully captures the qualitative aspects of England’s unified growth experience.
